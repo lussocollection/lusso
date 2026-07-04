@@ -1,0 +1,6 @@
+{
+  "name": "Lusso Collection",
+  "description": "Premium custom apparel and promotional wear with faith-inspired designs and high-end craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
